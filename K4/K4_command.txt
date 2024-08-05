@@ -1,0 +1,1 @@
+./breaker -i K4/K4_input.txt -a K4/K_alphabets.txt -s K4/K4_part_solved.txt 1 -l 2 -o K4/solutions.csv

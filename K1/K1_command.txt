@@ -1,0 +1,7 @@
+Example Command to be run in terminal used in conjunction with supplied folder of text files.
+
+full brute force command. should be around 186 mil attempts
+./breaker -i K1/K1_input.txt -a K1/K_alphabets.txt -s K1/K1_part_solved.txt -o K1/K1_output.csv
+
+vignere only
+./breaker -i K1/K1_input.txt -a K1/K_alphabets.txt -c vigenere -s K1/K1_part_solved.txt -o K1/K1_output.csv
