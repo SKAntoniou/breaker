@@ -1,7 +1,6 @@
 # Brute Force Cryptography Breaker
 
-#### Video Demo: 
-#### Description:
+#### Description
 
 Inspired by KRYPTOS at CIA HQ, this brute-force cryptography cracker has options that resemble FFMPEG usage. It currently only supports outputting when you have a partial solution you can feed into it. It was explicitly designed for cypher text that has been encrypted multiple times.
 
